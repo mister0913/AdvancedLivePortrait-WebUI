@@ -1,0 +1,349 @@
+en: # English
+  Language: Language
+  Reference Image: Reference Image
+  Output Image: Output Image
+  Rotate Pitch: Rotate Pitch
+  Rotate Yaw: Rotate Yaw
+  Rotate Roll: Rotate Roll
+  Blink: Blink
+  Eyebrow: Eyebrow
+  Wink: Wink
+  Pupil X: Pupil X
+  Pupil Y: Pupil Y
+  AAA: AAA
+  EEE: EEE
+  WOO: WOO
+  Smile: Smile
+  Source Ratio: Source Ratio
+  Sample Ratio: Sample Ratio
+  Sample Parts: Sample Parts
+  Crop Factor: Crop Factor
+  OnlyExpression: OnlyExpression
+  OnlyRotation: OnlyRotation
+  OnlyMouth: OnlyMouth
+  OnlyEyes: OnlyEyes
+  All: All
+  Value above 5 may appear distorted: Value above 5 may appear distorted
+  Expression Editor: Expression Editor
+  Video Driven: Video Driven
+  Expression Video: Expression Video
+  GENERATE: GENERATE
+  Output Video: Output Video
+  First frame mouth alignment factor: First frame mouth alignment factor
+  First frame eyes alignment factor: First frame eyes alignment factor
+  Face Crop Factor: Face Crop Factor
+
+ko: # Korean
+  Language: 언어
+  Reference Image: 참조 이미지
+  Output Image: 결과 이미지
+  Rotate Pitch: Y축 회전
+  Rotate Yaw: Z축 회전
+  Rotate Roll: X축 회전
+  Blink: 눈 깜빡임
+  Eyebrow: 눈썹
+  Wink: 윙크
+  Pupil X: 눈동자 X
+  Pupil Y: 눈동자 Y
+  AAA: 아아아
+  EEE: 이이이
+  WOO: 우우우
+  Smile: 미소
+  Source Ratio: 원본 반영 비율
+  Sample Ratio: 샘플 비율
+  Sample Parts: 샘플 파트
+  Crop Factor: Crop Factor
+  OnlyExpression: 표정만
+  OnlyRotation: 회전만
+  OnlyMouth: 입만
+  OnlyEyes: 눈만
+  All: 전부
+  Value above 5 may appear distorted: 5 이상은 왜곡돼 보일 수 있습니다.
+  Expression Editor: 표정 편집기
+  Video Driven: 영상 변환
+  Expression Video: 표정 영상
+  GENERATE: 생성
+  Output Video: 결과 영상
+  First frame mouth alignment factor: 첫 프레임 입 반영 비율
+  First frame eyes alignment factor: 첫 프레임 눈 반영 비율
+  Face Crop Factor: 얼굴 크롭 비율
+
+ja: # Japanese
+  Language: 言語
+  Reference Image: Reference Image
+  Output Image: Output Image
+  Rotate Pitch: Rotate Pitch
+  Rotate Yaw: Rotate Yaw
+  Rotate Roll: Rotate Roll
+  Blink: Blink
+  Eyebrow: Eyebrow
+  Wink: Wink
+  Pupil X: Pupil X
+  Pupil Y: Pupil Y
+  AAA: AAA
+  EEE: EEE
+  WOO: WOO
+  Smile: Smile
+  Source Ratio: Source Ratio
+  Sample Ratio: Sample Ratio
+  Sample Parts: Sample Parts
+  Crop Factor: Crop Factor
+  OnlyExpression: OnlyExpression
+  OnlyRotation: OnlyRotation
+  OnlyMouth: OnlyMouth
+  OnlyEyes: OnlyEyes
+  All: All
+  Value above 5 may appear distorted: Value above 5 may appear distorted
+  Expression Editor: Expression Editor
+  Video Driven: Video Driven
+  Expression Video: Expression Video
+  GENERATE: GENERATE
+  Output Video: Output Video
+  First frame mouth alignment factor: First frame mouth alignment factor
+  First frame eyes alignment factor: First frame eyes alignment factor
+  Face Crop Factor: Face Crop Factor
+
+es: # Spanish
+  Language: Idioma
+  Reference Image: Reference Image
+  Output Image: Output Image
+  Rotate Pitch: Rotate Pitch
+  Rotate Yaw: Rotate Yaw
+  Rotate Roll: Rotate Roll
+  Blink: Blink
+  Eyebrow: Eyebrow
+  Wink: Wink
+  Pupil X: Pupil X
+  Pupil Y: Pupil Y
+  AAA: AAA
+  EEE: EEE
+  WOO: WOO
+  Smile: Smile
+  Source Ratio: Source Ratio
+  Sample Ratio: Sample Ratio
+  Sample Parts: Sample Parts
+  Crop Factor: Crop Factor
+  OnlyExpression: OnlyExpression
+  OnlyRotation: OnlyRotation
+  OnlyMouth: OnlyMouth
+  OnlyEyes: OnlyEyes
+  All: All
+  Value above 5 may appear distorted: Value above 5 may appear distorted
+  Expression Editor: Expression Editor
+  Video Driven: Video Driven
+  Expression Video: Expression Video
+  GENERATE: GENERATE
+  Output Video: Output Video
+  First frame mouth alignment factor: First frame mouth alignment factor
+  First frame eyes alignment factor: First frame eyes alignment factor
+  Face Crop Factor: Face Crop Factor
+
+fr: # French
+  Language: Langue
+  Reference Image: Reference Image
+  Output Image: Output Image
+  Rotate Pitch: Rotate Pitch
+  Rotate Yaw: Rotate Yaw
+  Rotate Roll: Rotate Roll
+  Blink: Blink
+  Eyebrow: Eyebrow
+  Wink: Wink
+  Pupil X: Pupil X
+  Pupil Y: Pupil Y
+  AAA: AAA
+  EEE: EEE
+  WOO: WOO
+  Smile: Smile
+  Source Ratio: Source Ratio
+  Sample Ratio: Sample Ratio
+  Sample Parts: Sample Parts
+  Crop Factor: Crop Factor
+  OnlyExpression: OnlyExpression
+  OnlyRotation: OnlyRotation
+  OnlyMouth: OnlyMouth
+  OnlyEyes: OnlyEyes
+  All: All
+  Value above 5 may appear distorted: Value above 5 may appear distorted
+  Expression Editor: Expression Editor
+  Video Driven: Video Driven
+  Expression Video: Expression Video
+  GENERATE: GENERATE
+  Output Video: Output Video
+  First frame mouth alignment factor: First frame mouth alignment factor
+  First frame eyes alignment factor: First frame eyes alignment factor
+  Face Crop Factor: Face Crop Factor
+
+de: # German
+  Language: Sprache
+  Reference Image: Reference Image
+  Output Image: Output Image
+  Rotate Pitch: Rotate Pitch
+  Rotate Yaw: Rotate Yaw
+  Rotate Roll: Rotate Roll
+  Blink: Blink
+  Eyebrow: Eyebrow
+  Wink: Wink
+  Pupil X: Pupil X
+  Pupil Y: Pupil Y
+  AAA: AAA
+  EEE: EEE
+  WOO: WOO
+  Smile: Smile
+  Source Ratio: Source Ratio
+  Sample Ratio: Sample Ratio
+  Sample Parts: Sample Parts
+  Crop Factor: Crop Factor
+  OnlyExpression: OnlyExpression
+  OnlyRotation: OnlyRotation
+  OnlyMouth: OnlyMouth
+  OnlyEyes: OnlyEyes
+  All: All
+  Value above 5 may appear distorted: Value above 5 may appear distorted
+  Expression Editor: Expression Editor
+  Video Driven: Video Driven
+  Expression Video: Expression Video
+  GENERATE: GENERATE
+  Output Video: Output Video
+  First frame mouth alignment factor: First frame mouth alignment factor
+  First frame eyes alignment factor: First frame eyes alignment factor
+  Face Crop Factor: Face Crop Factor
+
+zh: # Chinese
+  Language: 语言
+  Reference Image: Reference Image
+  Output Image: Output Image
+  Rotate Pitch: Rotate Pitch
+  Rotate Yaw: Rotate Yaw
+  Rotate Roll: Rotate Roll
+  Blink: Blink
+  Eyebrow: Eyebrow
+  Wink: Wink
+  Pupil X: Pupil X
+  Pupil Y: Pupil Y
+  AAA: AAA
+  EEE: EEE
+  WOO: WOO
+  Smile: Smile
+  Source Ratio: Source Ratio
+  Sample Ratio: Sample Ratio
+  Sample Parts: Sample Parts
+  Crop Factor: Crop Factor
+  OnlyExpression: OnlyExpression
+  OnlyRotation: OnlyRotation
+  OnlyMouth: OnlyMouth
+  OnlyEyes: OnlyEyes
+  All: All
+  Value above 5 may appear distorted: Value above 5 may appear distorted
+  Expression Editor: Expression Editor
+  Video Driven: Video Driven
+  Expression Video: Expression Video
+  GENERATE: GENERATE
+  Output Video: Output Video
+  First frame mouth alignment factor: First frame mouth alignment factor
+  First frame eyes alignment factor: First frame eyes alignment factor
+  Face Crop Factor: Face Crop Factor
+
+uk: # Ukrainian
+  Language: Мова
+  Reference Image: Reference Image
+  Output Image: Output Image
+  Rotate Pitch: Rotate Pitch
+  Rotate Yaw: Rotate Yaw
+  Rotate Roll: Rotate Roll
+  Blink: Blink
+  Eyebrow: Eyebrow
+  Wink: Wink
+  Pupil X: Pupil X
+  Pupil Y: Pupil Y
+  AAA: AAA
+  EEE: EEE
+  WOO: WOO
+  Smile: Smile
+  Source Ratio: Source Ratio
+  Sample Ratio: Sample Ratio
+  Sample Parts: Sample Parts
+  Crop Factor: Crop Factor
+  OnlyExpression: OnlyExpression
+  OnlyRotation: OnlyRotation
+  OnlyMouth: OnlyMouth
+  OnlyEyes: OnlyEyes
+  All: All
+  Value above 5 may appear distorted: Value above 5 may appear distorted
+  Expression Editor: Expression Editor
+  Video Driven: Video Driven
+  Expression Video: Expression Video
+  GENERATE: GENERATE
+  Output Video: Output Video
+  First frame mouth alignment factor: First frame mouth alignment factor
+  First frame eyes alignment factor: First frame eyes alignment factor
+  Face Crop Factor: Face Crop Factor
+
+ru: # Russian
+  Language: Язык
+  Reference Image: Reference Image
+  Output Image: Output Image
+  Rotate Pitch: Rotate Pitch
+  Rotate Yaw: Rotate Yaw
+  Rotate Roll: Rotate Roll
+  Blink: Blink
+  Eyebrow: Eyebrow
+  Wink: Wink
+  Pupil X: Pupil X
+  Pupil Y: Pupil Y
+  AAA: AAA
+  EEE: EEE
+  WOO: WOO
+  Smile: Smile
+  Source Ratio: Source Ratio
+  Sample Ratio: Sample Ratio
+  Sample Parts: Sample Parts
+  Crop Factor: Crop Factor
+  OnlyExpression: OnlyExpression
+  OnlyRotation: OnlyRotation
+  OnlyMouth: OnlyMouth
+  OnlyEyes: OnlyEyes
+  All: All
+  Value above 5 may appear distorted: Value above 5 may appear distorted
+  Expression Editor: Expression Editor
+  Video Driven: Video Driven
+  Expression Video: Expression Video
+  GENERATE: GENERATE
+  Output Video: Output Video
+  First frame mouth alignment factor: First frame mouth alignment factor
+  First frame eyes alignment factor: First frame eyes alignment factor
+  Face Crop Factor: Face Crop Factor
+
+tr: # Turkish
+  Language: Dil
+  Reference Image: Reference Image
+  Output Image: Output Image
+  Rotate Pitch: Rotate Pitch
+  Rotate Yaw: Rotate Yaw
+  Rotate Roll: Rotate Roll
+  Blink: Blink
+  Eyebrow: Eyebrow
+  Wink: Wink
+  Pupil X: Pupil X
+  Pupil Y: Pupil Y
+  AAA: AAA
+  EEE: EEE
+  WOO: WOO
+  Smile: Smile
+  Source Ratio: Source Ratio
+  Sample Ratio: Sample Ratio
+  Sample Parts: Sample Parts
+  Crop Factor: Crop Factor
+  OnlyExpression: OnlyExpression
+  OnlyRotation: OnlyRotation
+  OnlyMouth: OnlyMouth
+  OnlyEyes: OnlyEyes
+  All: All
+  Value above 5 may appear distorted: Value above 5 may appear distorted
+  Expression Editor: Expression Editor
+  Video Driven: Video Driven
+  Expression Video: Expression Video
+  GENERATE: GENERATE
+  Output Video: Output Video
+  First frame mouth alignment factor: First frame mouth alignment factor
+  First frame eyes alignment factor: First frame eyes alignment factor
+  Face Crop Factor: Face Crop Factor

@@ -1,0 +1,12 @@
+**/venv/
+**/__pycache__/
+**/outputs/
+**/models/
+
+**/.pytest_cache
+**/.idea
+**/.git
+**/.github
+
+*.png
+*.jpg
